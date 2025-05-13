@@ -27,9 +27,9 @@ Ensures clarity, professionalism, and accessibility.
 - Minimalist layout with a soft background and clear typography.
 - Single-color charting for simplicity and focus.
 
-🛠️ Tools Used
-Tableau Desktop
-Superstore Dataset (Sample)
+🛠️ Tools Used:
+- Tableau Desktop
+- Superstore Dataset (Sample)
 
 
   
